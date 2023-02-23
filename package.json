@@ -1,0 +1,17 @@
+{
+  "name": "new_project_node",
+  "version": "1.0.0",
+  "description": "Este es mi nuevo y segundo proyecto de node",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "saludar":"echo \"Hola, este es mi primer ejecicio con Node en el mejor BootCamp de programación del mundo\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holanode",
+    "secondproject"
+  ],
+  "author": "Manuel Navarro Z",
+  "license": "ISC"
+}
